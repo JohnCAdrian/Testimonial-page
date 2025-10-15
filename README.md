@@ -1,4 +1,4 @@
-# DevChallenges.io - Testimonial Page
+# DevChallenges.io - Testimonial Page<h1 align="center">Testimonial Page | devChallenges</h1>
 
 ![Thumbnail for the Testimonial Page coding challenge](./thumbnail.jpg)
 
