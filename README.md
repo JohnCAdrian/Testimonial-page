@@ -17,3 +17,17 @@ This project is a responsive Testimonial web page built as part of the devChalle
 
 ![Desktop_1350px](https://github.com/user-attachments/assets/3a650773-1be3-4ca0-8044-62da2c643c2a)
 
+### What I learned
+Through this project I gained insight on:
+- Semantic HTML: Used proper semantic elements for better accessbility
+- CSS: Implemented flexible layouts for responsive design
+- Responsive Design: Created a mobile-first structure for different screen sizes
+  
+
+### Tech Stack
+
+- Semantic HTML5 markup (Vanilla html5)
+- CSS custom properties (Vanilla CSS)
+- Flexbox
+- Media queries
+- Icon
