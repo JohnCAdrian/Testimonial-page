@@ -31,3 +31,9 @@ Through this project I gained insight on:
 - Flexbox
 - Media queries
 - Icon
+
+## Feedback
+I enhanced my skill using flexbox and media queries to create a responsive layout for a Testimonial web page through this insightful challenge provided by <a href="https://devchallenges.io/"> devChallenges.io</a> 
+
+## Author
+- GitHub <a href= "https://github.com/JohnCAdrian"> JohnCAdrian </a>
